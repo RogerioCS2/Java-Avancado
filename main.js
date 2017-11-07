@@ -1,3 +1,3 @@
-var sayHello = require('./ola');
+var sayHello = require('./hello');
 
-sayHello('RogerioCS', document.querySelector('#Saida') )
+sayHello('RogerioCS', document.getElementById('Saida') )
