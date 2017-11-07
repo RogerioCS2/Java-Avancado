@@ -1,3 +1,3 @@
 var sayHello = require('./hello');
 
-sayHello('RogerioCS', document.getElementById('Saida') )
+sayHello('RogerioCS', document.getElementById('saida'))
